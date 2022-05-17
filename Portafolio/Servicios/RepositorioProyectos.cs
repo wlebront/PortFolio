@@ -91,7 +91,14 @@ namespace Portafolio.Servicios
                     ImagenURL = "/imagenes/medicina.png"
                 },
 
+                    new Proyecto
 
+                {
+                    Titulo = "Wal Services llc",
+                    Descripcion = "Manejo de Presupuesto",
+                    Link = "https://reddit.com",
+                    ImagenURL = "/imagenes/manejo.PNG"
+                },
                 };
         }
 
